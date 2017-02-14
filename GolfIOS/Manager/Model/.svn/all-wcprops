@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/Golf/!svn/ver/1481/trunk/iOS/GolfIOS(NEW)/GolfIOS/Manager/Model
+END
+PlaceItemModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/Golf/!svn/ver/441/trunk/iOS/GolfIOS(NEW)/GolfIOS/Manager/Model/PlaceItemModel.m
+END
+SeverStatus.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/Golf/!svn/ver/528/trunk/iOS/GolfIOS(NEW)/GolfIOS/Manager/Model/SeverStatus.m
+END
+PlaceDetailModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Golf/!svn/ver/441/trunk/iOS/GolfIOS(NEW)/GolfIOS/Manager/Model/PlaceDetailModel.m
+END
+BaseObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/Golf/!svn/ver/206/trunk/iOS/GolfIOS(NEW)/GolfIOS/Manager/Model/BaseObject.h
+END
+GolfMJExtensionConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Golf/!svn/ver/206/trunk/iOS/GolfIOS(NEW)/GolfIOS/Manager/Model/GolfMJExtensionConfig.h
+END
+PlaceItemModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/Golf/!svn/ver/635/trunk/iOS/GolfIOS(NEW)/GolfIOS/Manager/Model/PlaceItemModel.h
+END
+BaseObject.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/Golf/!svn/ver/206/trunk/iOS/GolfIOS(NEW)/GolfIOS/Manager/Model/BaseObject.m
+END
+GolfMJExtensionConfig.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Golf/!svn/ver/441/trunk/iOS/GolfIOS(NEW)/GolfIOS/Manager/Model/GolfMJExtensionConfig.m
+END
+SeverStatus.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/Golf/!svn/ver/528/trunk/iOS/GolfIOS(NEW)/GolfIOS/Manager/Model/SeverStatus.h
+END
+PlaceDetailModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Golf/!svn/ver/800/trunk/iOS/GolfIOS(NEW)/GolfIOS/Manager/Model/PlaceDetailModel.h
+END

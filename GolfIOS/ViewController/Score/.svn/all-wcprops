@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/Golf/!svn/ver/1543/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/Score
+END
+TSOScoringViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Golf/!svn/ver/1205/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/Score/TSOScoringViewController.h
+END
+TSOScoreBaseViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Golf/!svn/ver/1219/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/Score/TSOScoreBaseViewController.h
+END
+TSOScoreQRCodeVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Golf/!svn/ver/1543/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/Score/TSOScoreQRCodeVC.m
+END
+TSOScoringViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Golf/!svn/ver/1543/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/Score/TSOScoringViewController.m
+END
+TSOScoreBaseViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Golf/!svn/ver/1219/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/Score/TSOScoreBaseViewController.m
+END
+TSOScoreHomePageVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Golf/!svn/ver/1103/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/Score/TSOScoreHomePageVC.h
+END
+YB_ScoreButton.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Golf/!svn/ver/379/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/Score/YB_ScoreButton.h
+END
+TSOPersonalScoreRecordViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/Golf/!svn/ver/369/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/Score/TSOPersonalScoreRecordViewController.h
+END
+TSORecordViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Golf/!svn/ver/1230/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/Score/TSORecordViewController.h
+END
+YB_QRCodeTool.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Golf/!svn/ver/1119/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/Score/YB_QRCodeTool.h
+END
+TSOScoreHomePageVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Golf/!svn/ver/1500/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/Score/TSOScoreHomePageVC.m
+END
+YB_ScoreButton.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Golf/!svn/ver/379/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/Score/YB_ScoreButton.m
+END
+TSOScoreSelectCourtVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Golf/!svn/ver/1205/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/Score/TSOScoreSelectCourtVC.h
+END
+TSOPersonalScoreRecordViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/Golf/!svn/ver/1394/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/Score/TSOPersonalScoreRecordViewController.m
+END
+TSORecordViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Golf/!svn/ver/1500/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/Score/TSORecordViewController.m
+END
+YB_QRCodeTool.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Golf/!svn/ver/1219/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/Score/YB_QRCodeTool.m
+END
+TSOScoreSelectCourtVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Golf/!svn/ver/1500/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/Score/TSOScoreSelectCourtVC.m
+END
+TSOGroupingViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Golf/!svn/ver/1219/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/Score/TSOGroupingViewController.h
+END
+TSOGroupingViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Golf/!svn/ver/1274/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/Score/TSOGroupingViewController.m
+END
+TSOScoreQRCodeVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Golf/!svn/ver/1103/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/Score/TSOScoreQRCodeVC.h
+END

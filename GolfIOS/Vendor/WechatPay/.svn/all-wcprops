@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/Golf/!svn/ver/1422/trunk/iOS/GolfIOS(NEW)/GolfIOS/Vendor/WechatPay
+END
+libWeChatSDK.a
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Golf/!svn/ver/1353/trunk/iOS/GolfIOS(NEW)/GolfIOS/Vendor/WechatPay/libWeChatSDK.a
+END
+WXApiObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/Golf/!svn/ver/1353/trunk/iOS/GolfIOS(NEW)/GolfIOS/Vendor/WechatPay/WXApiObject.h
+END
+WechatAuthSDK.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/Golf/!svn/ver/1353/trunk/iOS/GolfIOS(NEW)/GolfIOS/Vendor/WechatPay/WechatAuthSDK.h
+END
+WXApi.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/Golf/!svn/ver/1422/trunk/iOS/GolfIOS(NEW)/GolfIOS/Vendor/WechatPay/WXApi.h
+END

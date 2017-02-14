@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/Golf/!svn/ver/1430/trunk/iOS/GolfIOS(NEW)/GolfIOS/View/TVShow
+END
+TVShowVoteTableViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Golf/!svn/ver/744/trunk/iOS/GolfIOS(NEW)/GolfIOS/View/TVShow/TVShowVoteTableViewCell.h
+END
+TVSegementView.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/Golf/!svn/ver/375/trunk/iOS/GolfIOS(NEW)/GolfIOS/View/TVShow/TVSegementView.h
+END
+TVToupiaoTableViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Golf/!svn/ver/635/trunk/iOS/GolfIOS(NEW)/GolfIOS/View/TVShow/TVToupiaoTableViewCell.h
+END
+TVShowVoteTableViewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Golf/!svn/ver/987/trunk/iOS/GolfIOS(NEW)/GolfIOS/View/TVShow/TVShowVoteTableViewCell.m
+END
+TVSegementView.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/Golf/!svn/ver/375/trunk/iOS/GolfIOS(NEW)/GolfIOS/View/TVShow/TVSegementView.m
+END
+TvToupiaoCollectionViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Golf/!svn/ver/635/trunk/iOS/GolfIOS(NEW)/GolfIOS/View/TVShow/TvToupiaoCollectionViewCell.h
+END
+TVToupiaoTableViewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Golf/!svn/ver/1372/trunk/iOS/GolfIOS(NEW)/GolfIOS/View/TVShow/TVToupiaoTableViewCell.m
+END
+TvVideoTableViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Golf/!svn/ver/1313/trunk/iOS/GolfIOS(NEW)/GolfIOS/View/TVShow/TvVideoTableViewCell.h
+END
+TvToupiaoCollectionViewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Golf/!svn/ver/1430/trunk/iOS/GolfIOS(NEW)/GolfIOS/View/TVShow/TvToupiaoCollectionViewCell.m
+END
+TvVideoTableViewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Golf/!svn/ver/1339/trunk/iOS/GolfIOS(NEW)/GolfIOS/View/TVShow/TvVideoTableViewCell.m
+END

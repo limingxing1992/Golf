@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/Golf/!svn/ver/1543/trunk/iOS/GolfIOS(NEW)/GolfIOS/View/Score
+END
+TSOSingleScoringCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Golf/!svn/ver/1174/trunk/iOS/GolfIOS(NEW)/GolfIOS/View/Score/TSOSingleScoringCell.h
+END
+TSOAddPlayerButton.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Golf/!svn/ver/1274/trunk/iOS/GolfIOS(NEW)/GolfIOS/View/Score/TSOAddPlayerButton.m
+END
+TSOPersonalScoreHeadCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Golf/!svn/ver/1230/trunk/iOS/GolfIOS(NEW)/GolfIOS/View/Score/TSOPersonalScoreHeadCell.m
+END
+TSOScoreAddPlayerCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Golf/!svn/ver/1500/trunk/iOS/GolfIOS(NEW)/GolfIOS/View/Score/TSOScoreAddPlayerCell.m
+END
+TSOUSelectHoleView.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Golf/!svn/ver/1205/trunk/iOS/GolfIOS(NEW)/GolfIOS/View/Score/TSOUSelectHoleView.h
+END
+TSOScroeButton.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/Golf/!svn/ver/261/trunk/iOS/GolfIOS(NEW)/GolfIOS/View/Score/TSOScroeButton.h
+END
+TSOUserRecordView.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/Golf/!svn/ver/1205/trunk/iOS/GolfIOS(NEW)/GolfIOS/View/Score/TSOUserRecordView.h
+END
+TSOTotalScoreView.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/Golf/!svn/ver/1174/trunk/iOS/GolfIOS(NEW)/GolfIOS/View/Score/TSOTotalScoreView.h
+END
+TSORecoreView.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/Golf/!svn/ver/240/trunk/iOS/GolfIOS(NEW)/GolfIOS/View/Score/TSORecoreView.h
+END
+YB_ScoreButton.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/Golf/!svn/ver/899/trunk/iOS/GolfIOS(NEW)/GolfIOS/View/Score/YB_ScoreButton.h
+END
+TSOSingleScoringCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Golf/!svn/ver/1543/trunk/iOS/GolfIOS(NEW)/GolfIOS/View/Score/TSOSingleScoringCell.m
+END
+TSOUSelectHoleView.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Golf/!svn/ver/1205/trunk/iOS/GolfIOS(NEW)/GolfIOS/View/Score/TSOUSelectHoleView.m
+END
+TSOScroeButton.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/Golf/!svn/ver/1417/trunk/iOS/GolfIOS(NEW)/GolfIOS/View/Score/TSOScroeButton.m
+END
+TSOScoreAddFriendCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Golf/!svn/ver/206/trunk/iOS/GolfIOS(NEW)/GolfIOS/View/Score/TSOScoreAddFriendCell.h
+END
+TSOQRCodeCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/Golf/!svn/ver/1375/trunk/iOS/GolfIOS(NEW)/GolfIOS/View/Score/TSOQRCodeCell.h
+END
+TSOUserRecordView.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/Golf/!svn/ver/1500/trunk/iOS/GolfIOS(NEW)/GolfIOS/View/Score/TSOUserRecordView.m
+END
+TSORecoreView.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/Golf/!svn/ver/240/trunk/iOS/GolfIOS(NEW)/GolfIOS/View/Score/TSORecoreView.m
+END
+TSOPersonalScoreCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Golf/!svn/ver/1174/trunk/iOS/GolfIOS(NEW)/GolfIOS/View/Score/TSOPersonalScoreCell.h
+END
+TSOTotalScoreView.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/Golf/!svn/ver/1543/trunk/iOS/GolfIOS(NEW)/GolfIOS/View/Score/TSOTotalScoreView.m
+END
+YB_ScoreButton.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/Golf/!svn/ver/922/trunk/iOS/GolfIOS(NEW)/GolfIOS/View/Score/YB_ScoreButton.m
+END
+TSOScoreAddFriendCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Golf/!svn/ver/304/trunk/iOS/GolfIOS(NEW)/GolfIOS/View/Score/TSOScoreAddFriendCell.m
+END
+TSOGroupScoringCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Golf/!svn/ver/261/trunk/iOS/GolfIOS(NEW)/GolfIOS/View/Score/TSOGroupScoringCell.h
+END
+TSOQRCodeCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/Golf/!svn/ver/1500/trunk/iOS/GolfIOS(NEW)/GolfIOS/View/Score/TSOQRCodeCell.m
+END
+TSOScoreSelectHoleCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Golf/!svn/ver/1103/trunk/iOS/GolfIOS(NEW)/GolfIOS/View/Score/TSOScoreSelectHoleCell.h
+END
+TSOPersonalScoreCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Golf/!svn/ver/1230/trunk/iOS/GolfIOS(NEW)/GolfIOS/View/Score/TSOPersonalScoreCell.m
+END
+TSOGroupScoringCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Golf/!svn/ver/304/trunk/iOS/GolfIOS(NEW)/GolfIOS/View/Score/TSOGroupScoringCell.m
+END
+TSOScoreSelectHoleCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Golf/!svn/ver/1103/trunk/iOS/GolfIOS(NEW)/GolfIOS/View/Score/TSOScoreSelectHoleCell.m
+END
+TSOScoreAddPlayerCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Golf/!svn/ver/1230/trunk/iOS/GolfIOS(NEW)/GolfIOS/View/Score/TSOScoreAddPlayerCell.h
+END
+TSOPersonalScoreHeadCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Golf/!svn/ver/1230/trunk/iOS/GolfIOS(NEW)/GolfIOS/View/Score/TSOPersonalScoreHeadCell.h
+END
+TSOAddPlayerButton.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Golf/!svn/ver/1103/trunk/iOS/GolfIOS(NEW)/GolfIOS/View/Score/TSOAddPlayerButton.h
+END

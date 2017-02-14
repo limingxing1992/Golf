@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/Golf/!svn/ver/1543/trunk/iOS/GolfIOS(NEW)/GolfIOS
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/Golf/!svn/ver/206/trunk/iOS/GolfIOS(NEW)/GolfIOS/main.m
+END
+AppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/Golf/!svn/ver/206/trunk/iOS/GolfIOS(NEW)/GolfIOS/AppDelegate.h
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/Golf/!svn/ver/1528/trunk/iOS/GolfIOS(NEW)/GolfIOS/Info.plist
+END
+AppDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/Golf/!svn/ver/1493/trunk/iOS/GolfIOS(NEW)/GolfIOS/AppDelegate.m
+END
+MeList_0.plist
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/Golf/!svn/ver/887/trunk/iOS/GolfIOS(NEW)/GolfIOS/MeList_0.plist
+END
+MeList_1.plist
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/Golf/!svn/ver/1313/trunk/iOS/GolfIOS(NEW)/GolfIOS/MeList_1.plist
+END
+GolfConstant.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/Golf/!svn/ver/1465/trunk/iOS/GolfIOS(NEW)/GolfIOS/GolfConstant.h
+END
+GolfIOS.entitlements
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/Golf/!svn/ver/1439/trunk/iOS/GolfIOS(NEW)/GolfIOS/GolfIOS.entitlements
+END

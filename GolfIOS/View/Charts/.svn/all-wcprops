@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/Golf/!svn/ver/1267/trunk/iOS/GolfIOS(NEW)/GolfIOS/View/Charts
+END
+ChartsSelfView.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/Golf/!svn/ver/727/trunk/iOS/GolfIOS(NEW)/GolfIOS/View/Charts/ChartsSelfView.h
+END
+STL_SegementControl.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/Golf/!svn/ver/206/trunk/iOS/GolfIOS(NEW)/GolfIOS/View/Charts/STL_SegementControl.h
+END
+ChartsTableViewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Golf/!svn/ver/1065/trunk/iOS/GolfIOS(NEW)/GolfIOS/View/Charts/ChartsTableViewCell.m
+END
+ChartsSelfView.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/Golf/!svn/ver/1267/trunk/iOS/GolfIOS(NEW)/GolfIOS/View/Charts/ChartsSelfView.m
+END
+STL_SegementControl.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/Golf/!svn/ver/366/trunk/iOS/GolfIOS(NEW)/GolfIOS/View/Charts/STL_SegementControl.m
+END
+ScoreSegement.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/Golf/!svn/ver/206/trunk/iOS/GolfIOS(NEW)/GolfIOS/View/Charts/ScoreSegement.h
+END
+ChartsTableViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Golf/!svn/ver/1065/trunk/iOS/GolfIOS(NEW)/GolfIOS/View/Charts/ChartsTableViewCell.h
+END
+ScoreSegement.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/Golf/!svn/ver/656/trunk/iOS/GolfIOS(NEW)/GolfIOS/View/Charts/ScoreSegement.m
+END

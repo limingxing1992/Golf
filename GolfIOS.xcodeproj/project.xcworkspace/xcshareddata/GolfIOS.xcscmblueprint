@@ -1,0 +1,27 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "f46cbf8c-4e94-4b05-846c-25b7f728df8f",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "f46cbf8c-4e94-4b05-846c-25b7f728df8f" : {
+      "DVTSourceControlWorkingCopyRepositoryBranchesLocationKey" : "branches",
+      "DVTSourceControlWorkingCopyRepositoryTagsLocationKey" : "tags",
+      "DVTSourceControlWorkingCopyRepositoryPrimaryBranchLocationKey" : "trunk"
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "f46cbf8c-4e94-4b05-846c-25b7f728df8f" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "3E70E0B6-EDBE-4A25-A76F-D77BA330D012",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "f46cbf8c-4e94-4b05-846c-25b7f728df8f" : "Golf\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "GolfIOS",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "trunk\/iOS\/GolfIOS(NEW)\/GolfIOS.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/192.168.18.222\/svn\/Golf",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "f46cbf8c-4e94-4b05-846c-25b7f728df8f"
+    }
+  ]
+}

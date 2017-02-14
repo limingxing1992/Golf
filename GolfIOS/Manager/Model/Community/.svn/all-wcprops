@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/Golf/!svn/ver/1066/trunk/iOS/GolfIOS(NEW)/GolfIOS/Manager/Model/Community
+END
+CommunityArticleModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Golf/!svn/ver/1066/trunk/iOS/GolfIOS(NEW)/GolfIOS/Manager/Model/Community/CommunityArticleModel.h
+END
+CommunityArticleCommentModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Golf/!svn/ver/845/trunk/iOS/GolfIOS(NEW)/GolfIOS/Manager/Model/Community/CommunityArticleCommentModel.h
+END
+CommunityPersonalUserDeailModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Golf/!svn/ver/606/trunk/iOS/GolfIOS(NEW)/GolfIOS/Manager/Model/Community/CommunityPersonalUserDeailModel.m
+END
+CommunityArticleModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Golf/!svn/ver/558/trunk/iOS/GolfIOS(NEW)/GolfIOS/Manager/Model/Community/CommunityArticleModel.m
+END
+CommunityMyCommentModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Golf/!svn/ver/676/trunk/iOS/GolfIOS(NEW)/GolfIOS/Manager/Model/Community/CommunityMyCommentModel.h
+END
+CommunityArticleCommentModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Golf/!svn/ver/845/trunk/iOS/GolfIOS(NEW)/GolfIOS/Manager/Model/Community/CommunityArticleCommentModel.m
+END
+CommunityMyCommentModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Golf/!svn/ver/676/trunk/iOS/GolfIOS(NEW)/GolfIOS/Manager/Model/Community/CommunityMyCommentModel.m
+END
+CommunityUserDeailModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Golf/!svn/ver/558/trunk/iOS/GolfIOS(NEW)/GolfIOS/Manager/Model/Community/CommunityUserDeailModel.h
+END
+CommunityPersonalUserDeailModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Golf/!svn/ver/486/trunk/iOS/GolfIOS(NEW)/GolfIOS/Manager/Model/Community/CommunityPersonalUserDeailModel.h
+END
+CommunityUserDeailModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Golf/!svn/ver/558/trunk/iOS/GolfIOS(NEW)/GolfIOS/Manager/Model/Community/CommunityUserDeailModel.m
+END

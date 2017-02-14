@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Golf/!svn/ver/208/trunk/iOS/GolfIOS(NEW)/Pods/UMengUShare/UShareSDK/SocialLibraries/WeChat
+END
+libWeChatSDK.a
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Golf/!svn/ver/208/trunk/iOS/GolfIOS(NEW)/Pods/UMengUShare/UShareSDK/SocialLibraries/WeChat/libWeChatSDK.a
+END
+WXApiObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Golf/!svn/ver/208/trunk/iOS/GolfIOS(NEW)/Pods/UMengUShare/UShareSDK/SocialLibraries/WeChat/WXApiObject.h
+END
+WechatAuthSDK.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Golf/!svn/ver/208/trunk/iOS/GolfIOS(NEW)/Pods/UMengUShare/UShareSDK/SocialLibraries/WeChat/WechatAuthSDK.h
+END
+UMSocialWechatHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/Golf/!svn/ver/208/trunk/iOS/GolfIOS(NEW)/Pods/UMengUShare/UShareSDK/SocialLibraries/WeChat/UMSocialWechatHandler.h
+END
+libSocialWeChat.a
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/Golf/!svn/ver/208/trunk/iOS/GolfIOS(NEW)/Pods/UMengUShare/UShareSDK/SocialLibraries/WeChat/libSocialWeChat.a
+END
+WXApi.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Golf/!svn/ver/208/trunk/iOS/GolfIOS(NEW)/Pods/UMengUShare/UShareSDK/SocialLibraries/WeChat/WXApi.h
+END

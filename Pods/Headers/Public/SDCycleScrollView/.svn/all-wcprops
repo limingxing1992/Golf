@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/Golf/!svn/ver/207/trunk/iOS/GolfIOS(NEW)/Pods/Headers/Public/SDCycleScrollView
+END
+TAAnimatedDotView.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Golf/!svn/ver/207/trunk/iOS/GolfIOS(NEW)/Pods/Headers/Public/SDCycleScrollView/TAAnimatedDotView.h
+END
+TAAbstractDotView.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Golf/!svn/ver/207/trunk/iOS/GolfIOS(NEW)/Pods/Headers/Public/SDCycleScrollView/TAAbstractDotView.h
+END
+SDCollectionViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Golf/!svn/ver/207/trunk/iOS/GolfIOS(NEW)/Pods/Headers/Public/SDCycleScrollView/SDCollectionViewCell.h
+END
+SDCycleScrollView.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Golf/!svn/ver/207/trunk/iOS/GolfIOS(NEW)/Pods/Headers/Public/SDCycleScrollView/SDCycleScrollView.h
+END
+TAPageControl.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Golf/!svn/ver/207/trunk/iOS/GolfIOS(NEW)/Pods/Headers/Public/SDCycleScrollView/TAPageControl.h
+END
+TADotView.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Golf/!svn/ver/207/trunk/iOS/GolfIOS(NEW)/Pods/Headers/Public/SDCycleScrollView/TADotView.h
+END
+UIView+SDExtension.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Golf/!svn/ver/207/trunk/iOS/GolfIOS(NEW)/Pods/Headers/Public/SDCycleScrollView/UIView+SDExtension.h
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/Golf/!svn/ver/208/trunk/iOS/GolfIOS(NEW)/Pods/UMengUShare/UShareSDK/UMSocialSDK/UMSocialCore.framework/Headers
+END
+UMSocialCoreImageUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/Golf/!svn/ver/208/trunk/iOS/GolfIOS(NEW)/Pods/UMengUShare/UShareSDK/UMSocialSDK/UMSocialCore.framework/Headers/UMSocialCoreImageUtils.h
+END
+UMSocialHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/Golf/!svn/ver/208/trunk/iOS/GolfIOS(NEW)/Pods/UMengUShare/UShareSDK/UMSocialSDK/UMSocialCore.framework/Headers/UMSocialHandler.h
+END
+UMSocialResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/Golf/!svn/ver/208/trunk/iOS/GolfIOS(NEW)/Pods/UMengUShare/UShareSDK/UMSocialSDK/UMSocialCore.framework/Headers/UMSocialResponse.h
+END
+UMSocialPlatformProvider.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/Golf/!svn/ver/208/trunk/iOS/GolfIOS(NEW)/Pods/UMengUShare/UShareSDK/UMSocialSDK/UMSocialCore.framework/Headers/UMSocialPlatformProvider.h
+END
+UMSocialGlobal.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/Golf/!svn/ver/208/trunk/iOS/GolfIOS(NEW)/Pods/UMengUShare/UShareSDK/UMSocialSDK/UMSocialCore.framework/Headers/UMSocialGlobal.h
+END
+UMSocialImageUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/Golf/!svn/ver/208/trunk/iOS/GolfIOS(NEW)/Pods/UMengUShare/UShareSDK/UMSocialSDK/UMSocialCore.framework/Headers/UMSocialImageUtil.h
+END
+UMSocialSOAuthViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/Golf/!svn/ver/208/trunk/iOS/GolfIOS(NEW)/Pods/UMengUShare/UShareSDK/UMSocialSDK/UMSocialCore.framework/Headers/UMSocialSOAuthViewController.h
+END
+UMSocialDataManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/Golf/!svn/ver/208/trunk/iOS/GolfIOS(NEW)/Pods/UMengUShare/UShareSDK/UMSocialSDK/UMSocialCore.framework/Headers/UMSocialDataManager.h
+END
+UMSociallogMacros.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/Golf/!svn/ver/208/trunk/iOS/GolfIOS(NEW)/Pods/UMengUShare/UShareSDK/UMSocialSDK/UMSocialCore.framework/Headers/UMSociallogMacros.h
+END
+UMSocialShareEditViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/Golf/!svn/ver/208/trunk/iOS/GolfIOS(NEW)/Pods/UMengUShare/UShareSDK/UMSocialSDK/UMSocialCore.framework/Headers/UMSocialShareEditViewController.h
+END
+UMSocialCore.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/Golf/!svn/ver/208/trunk/iOS/GolfIOS(NEW)/Pods/UMengUShare/UShareSDK/UMSocialSDK/UMSocialCore.framework/Headers/UMSocialCore.h
+END
+UMSocialManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/Golf/!svn/ver/208/trunk/iOS/GolfIOS(NEW)/Pods/UMengUShare/UShareSDK/UMSocialSDK/UMSocialCore.framework/Headers/UMSocialManager.h
+END
+UMSocialPlatformConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/Golf/!svn/ver/208/trunk/iOS/GolfIOS(NEW)/Pods/UMengUShare/UShareSDK/UMSocialSDK/UMSocialCore.framework/Headers/UMSocialPlatformConfig.h
+END
+UMSocialMessageObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/Golf/!svn/ver/208/trunk/iOS/GolfIOS(NEW)/Pods/UMengUShare/UShareSDK/UMSocialSDK/UMSocialCore.framework/Headers/UMSocialMessageObject.h
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Golf/!svn/ver/207/trunk/iOS/GolfIOS(NEW)/Pods/Headers/Public/BaiduMapKit/BaiduMapAPI_Cloud
+END
+BMKCloudSearchComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/Golf/!svn/ver/207/trunk/iOS/GolfIOS(NEW)/Pods/Headers/Public/BaiduMapKit/BaiduMapAPI_Cloud/BMKCloudSearchComponent.h
+END
+BMKCloudSearchInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/Golf/!svn/ver/207/trunk/iOS/GolfIOS(NEW)/Pods/Headers/Public/BaiduMapKit/BaiduMapAPI_Cloud/BMKCloudSearchInfo.h
+END
+BMKCloudPOIList.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/Golf/!svn/ver/207/trunk/iOS/GolfIOS(NEW)/Pods/Headers/Public/BaiduMapKit/BaiduMapAPI_Cloud/BMKCloudPOIList.h
+END
+BMKCloudSearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/Golf/!svn/ver/207/trunk/iOS/GolfIOS(NEW)/Pods/Headers/Public/BaiduMapKit/BaiduMapAPI_Cloud/BMKCloudSearch.h
+END
+BMKCloudVersion.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/Golf/!svn/ver/207/trunk/iOS/GolfIOS(NEW)/Pods/Headers/Public/BaiduMapKit/BaiduMapAPI_Cloud/BMKCloudVersion.h
+END

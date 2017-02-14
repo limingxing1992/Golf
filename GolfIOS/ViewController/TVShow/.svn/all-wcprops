@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/Golf/!svn/ver/1469/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/TVShow
+END
+TVShowViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Golf/!svn/ver/221/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/TVShow/TVShowViewController.h
+END
+TVTouPiaoViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Golf/!svn/ver/375/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/TVShow/TVTouPiaoViewController.h
+END
+TVToupiaoUserDetailViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/Golf/!svn/ver/1030/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/TVShow/TVToupiaoUserDetailViewController.h
+END
+TvVideoListViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Golf/!svn/ver/1313/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/TVShow/TvVideoListViewController.h
+END
+TVToupiaoDetailViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Golf/!svn/ver/1372/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/TVShow/TVToupiaoDetailViewController.h
+END
+TVShowViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Golf/!svn/ver/1372/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/TVShow/TVShowViewController.m
+END
+TVTouPiaoViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Golf/!svn/ver/1430/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/TVShow/TVTouPiaoViewController.m
+END
+TVToupiaoUserDetailViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/Golf/!svn/ver/1430/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/TVShow/TVToupiaoUserDetailViewController.m
+END
+TvVideoListViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Golf/!svn/ver/1469/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/TVShow/TvVideoListViewController.m
+END
+TVToupiaoDetailViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Golf/!svn/ver/1430/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/TVShow/TVToupiaoDetailViewController.m
+END
+ToupiaoResultDetailViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/Golf/!svn/ver/1065/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/TVShow/ToupiaoResultDetailViewController.h
+END
+TvVideoDetailViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Golf/!svn/ver/1313/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/TVShow/TvVideoDetailViewController.h
+END
+ToupiaoResultDetailViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/Golf/!svn/ver/1065/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/TVShow/ToupiaoResultDetailViewController.m
+END
+TvVideoDetailViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Golf/!svn/ver/1430/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/TVShow/TvVideoDetailViewController.m
+END

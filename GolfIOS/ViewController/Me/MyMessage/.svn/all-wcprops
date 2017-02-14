@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/Golf/!svn/ver/1045/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/Me/MyMessage
+END
+MyMessageBaseViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Golf/!svn/ver/718/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/Me/MyMessage/MyMessageBaseViewController.m
+END
+MyMessageViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Golf/!svn/ver/1045/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/Me/MyMessage/MyMessageViewController.h
+END
+MyMessageSendCommentViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/Golf/!svn/ver/718/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/Me/MyMessage/MyMessageSendCommentViewController.m
+END
+MyMessagePraiseViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/Golf/!svn/ver/293/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/Me/MyMessage/MyMessagePraiseViewController.h
+END
+MymessageGetPraiseViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/Golf/!svn/ver/718/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/Me/MyMessage/MymessageGetPraiseViewController.h
+END
+MyMessageCommentCellModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Golf/!svn/ver/718/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/Me/MyMessage/MyMessageCommentCellModel.h
+END
+MyMessageGetPraiseCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Golf/!svn/ver/718/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/Me/MyMessage/MyMessageGetPraiseCell.h
+END
+MyMessageViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Golf/!svn/ver/1045/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/Me/MyMessage/MyMessageViewController.m
+END
+MyMessageSysMsgCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Golf/!svn/ver/293/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/Me/MyMessage/MyMessageSysMsgCell.h
+END
+MyMessagePraiseViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/Golf/!svn/ver/718/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/Me/MyMessage/MyMessagePraiseViewController.m
+END
+MymessageGetPraiseViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/Golf/!svn/ver/718/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/Me/MyMessage/MymessageGetPraiseViewController.m
+END
+MyMessageHomeCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Golf/!svn/ver/293/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/Me/MyMessage/MyMessageHomeCell.h
+END
+MyMessageGetPraiseCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Golf/!svn/ver/718/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/Me/MyMessage/MyMessageGetPraiseCell.m
+END
+MyMessageCommentCellModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Golf/!svn/ver/718/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/Me/MyMessage/MyMessageCommentCellModel.m
+END
+MyMessageSystemMsgViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/Golf/!svn/ver/293/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/Me/MyMessage/MyMessageSystemMsgViewController.h
+END
+MyMessageSysMsgCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Golf/!svn/ver/293/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/Me/MyMessage/MyMessageSysMsgCell.m
+END
+MymessageSendPraiseViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/Golf/!svn/ver/718/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/Me/MyMessage/MymessageSendPraiseViewController.h
+END
+MyMessageSendPraiseCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Golf/!svn/ver/718/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/Me/MyMessage/MyMessageSendPraiseCell.h
+END
+MyMessageHomeCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Golf/!svn/ver/588/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/Me/MyMessage/MyMessageHomeCell.m
+END
+MyMessageSystemMsgViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/Golf/!svn/ver/340/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/Me/MyMessage/MyMessageSystemMsgViewController.m
+END
+MyMessageGetCommentViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/Golf/!svn/ver/718/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/Me/MyMessage/MyMessageGetCommentViewController.h
+END
+MyMessageCommentViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/Golf/!svn/ver/293/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/Me/MyMessage/MyMessageCommentViewController.h
+END
+MymessageSendPraiseViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/Golf/!svn/ver/718/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/Me/MyMessage/MymessageSendPraiseViewController.m
+END
+MyMessageCommentCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Golf/!svn/ver/718/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/Me/MyMessage/MyMessageCommentCell.h
+END
+MyMessageSendPraiseCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Golf/!svn/ver/1037/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/Me/MyMessage/MyMessageSendPraiseCell.m
+END
+MyMessageCommentViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/Golf/!svn/ver/718/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/Me/MyMessage/MyMessageCommentViewController.m
+END
+MyMessageGetCommentViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/Golf/!svn/ver/718/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/Me/MyMessage/MyMessageGetCommentViewController.m
+END
+MyMessageCommentCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Golf/!svn/ver/718/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/Me/MyMessage/MyMessageCommentCell.m
+END
+MyMessageBaseViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Golf/!svn/ver/718/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/Me/MyMessage/MyMessageBaseViewController.h
+END
+MyMessageSendCommentViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/Golf/!svn/ver/718/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/Me/MyMessage/MyMessageSendCommentViewController.h
+END

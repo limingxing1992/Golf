@@ -1,0 +1,305 @@
+//
+//  GolfPrefixHeader.pch
+//  GolfIOS
+//
+//  Created by 张永亮 on 2016/10/24.
+//  Copyright © 2016年 zzz. All rights reserved.
+//
+
+#ifndef GolfPrefixHeader_pch
+#define GolfPrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+/*
+ 基础相关头文件
+ */
+#import "BusinessFactory.h" //基础工厂
+#import "BusinessManager.h" //基础业务类
+#import "GolfConstant.h"    //常用宏
+#import "GolfTypeDef.h"     //常用type
+#import "CommonUncaughtExceptionHandler.h"//错误日志捕捉
+
+/*
+ 业务相关头文件
+ */
+//------------社区----------------
+#import "CommunityManager.h"
+//------------俱乐部--------------
+#import "ClubManager.h"
+//------------记分----------------
+#import "ScoreManager.h"
+//------------首页----------------
+#import "HomeManager.h"
+//------------个人----------------
+#import "UserManager.h" //个人业务
+
+//------------预订场地-------------
+#import "AppointmentPlaceManager.h"//预订球场业务
+
+//------------影视和排行榜----------
+#import "TvManager.h"
+#import "ChartsManager.h"
+
+//------------一键约球-------------
+#import "AppointmentFriendManager.h"
+
+//------------登录----------------
+#import "LoginManager.h"
+
+/*
+ model头文件引入
+ */
+//------------社区----------------
+
+//------------俱乐部--------------
+#import "ClubArticle.h"
+
+
+//------------记分----------------
+
+//------------首页----------------
+
+//------------个人----------------
+#import "FriendUserModel.h" //好友用户模型
+#import "MyClubModel.h" //我的俱乐部模型
+#import "MyBirdWalletModel.h"//我的钱包模型
+#import "MyLevelModel.h"    //我的荣誉模型
+#import "MyOrderModel.h"    //我的订单模型
+#import "MyPointsModel.h"//我的积分模型
+
+//------------预订场地-------------
+#import "PlaceItemModel.h"  //球场模型
+#import "PlaceDetailModel.h"//球场详情模型
+#import "PlaceSumbitModel.h"    //球场预订模型
+#import "PlaceCommentModel.h"   //球场评论模型
+
+//------------影视和排行榜----------
+#import "TvVoteModel.h"     //小鸟投票模块模型
+#import "ChartsModel.h"     //排行榜模型
+#import "TvVideoModel.h" //小鸟视频模型
+
+//------------一键约球-------------
+
+//------------登录----------------
+#import "UserModel.h"   //用户数据模型
+/*
+ view头文件引入
+ */
+//------------社区----------------
+
+//------------俱乐部--------------
+#import "TSOClubTableViewCell.h"
+#import "TSOCommunityUserInfoView.h"
+#import "TSOClubTableViewCell.h"
+#import "TSOCommentInputView.h"//底部评论控件
+
+//------------记分----------------
+
+//------------首页----------------
+#import "TSOHomeBtnListTableViewCell.h"
+#import "TSOHomeMessageTableViewCell.h"
+#import "TSOHomeInvitationTableViewCell.h"
+#import "TSOHomeCommunityTableViewCell.h"
+#import "TSOHomeButton.h"
+//------------个人----------------
+#import "STL_MixBtn.h"  //图文混合型按钮
+#import "OrderMenuView.h"//订单菜单栏
+#import "PayTableViewCell.h"//支付方式cell
+#import "LevelProgressView.h"//进度条
+#import "BalanceTitleView.h"//余额明细切换条
+#import "MyFavoriteMenuView.h"  //我的收藏标题切换条
+#import "BalanceDetailTableViewCell.h"//余额明细cell
+#import "PrivilegeCollectionViewCell.h"//特权cell
+#import "LevelTableViewCell.h"  //等级cell
+#import "FavoriteClubTableViewCell.h"//收藏俱乐部cell
+#import "FavoritePlaceTableViewCell.h"  //收藏球场Cell
+#import "MyArticleTableViewCell.h"      //我的帖子Cell
+#import "MyFansTableViewCell.h"         //我的粉丝cell
+#import "MyAttentionTableViewCell.h"    //我的关注cell
+#import "MyFriendGroupTableViewCell.h"  //我的好友分组Cell
+#import "MyAddGroupFriendTableViewCell.h"   //添加分组好友cell
+#import "MyAddFriendTableViewCell.h"    //添加通讯录好友cell
+#import "MyFriendUserTableViewCell.h"       //我的好友列表cell
+#import "CommentStarView.h"     //星级评分图
+#import "MyFriendInviteTableViewCell.h"//好友申请cell
+#import "MyBirdFillCollectionViewCell.h"//充值cell
+#import "STL_TextField.h"               //输入框
+
+
+
+//------------预订场地-------------
+#import "MenuSimple.h"  //预约场地菜单栏
+#import "AppointPlaceTableViewCell.h"   //预约场地cell
+#import "STL_PageControl.h"//自定义pageControl
+#import "TaocanPlaceTableViewCell.h"    //球场套餐Cell
+#import "ServiceRuleView.h"         //弹窗显示服务条例
+#import "STL_AlertCustomView.h"     //弹窗自定义视图
+#import "STL_PickerView.h"      //自定义选择器
+#import "STL_TimePickerView.h"  //时间选择器
+#import "STL_NumPickerView.h"   //人数选择器
+#import "AppointmentPlaceCommentTableViewCell.h"//球场评论cell'
+
+
+//------------影视和排行榜----------
+#import "STL_SegementControl.h" //排行榜头部菜单栏
+#import "ScoreSegement.h"   //积分切换菜单
+#import "ChartsTableViewCell.h"     //排行榜Cell
+#import "ChartsSelfView.h"          //个人记录
+#import "OrderTableViewCell.h"      //订单Cell
+#import "TVShowVoteTableViewCell.h" //投票cell
+#import "TVToupiaoTableViewCell.h"  //小鸟投票活动cell
+#import "TVSegementView.h"          //小鸟投票切换视图
+#import "TvToupiaoCollectionViewCell.h" //投票美女cell
+#import "TvVideoTableViewCell.h"//小鸟视频cell
+//------------一键约球-------------
+#import "FirendInviteGroupTableViewCell.h"//邀请朋友分组cell
+
+//------------登录----------------
+#import "JKCountDownButton.h"   //验证码按钮
+
+/*
+ Controller头文件引入
+ */
+//------------社区----------------
+#import "TSOCommunityBaseViewController.h"
+#import "TSOCommunityMySpaceViewController.h"
+#import "TSOCommunityUserInfoViewController.h"
+
+//------------俱乐部--------------
+#import "TSOClubViewController.h"
+
+//------------记分----------------
+
+//------------首页----------------
+
+//------------个人----------------
+#import "STL_SuccessViewController.h"   //成功界面(支付成，取消成，使用成)
+#import "SettingViewController.h"   //设置页
+#import "APIChosseTableViewController.h"//测试服务器选择界面
+#import "OrderListViewController.h" //我的订单
+#import "OrderDetailViewController.h"   //订单详情页面
+#import "OrderPayViewController.h"  //订单支付
+#import "BirdWalletViewController.h"    //我的钱包
+#import "BirdWalletFillDetailViewController.h"//余额明细
+#import "MyFirendViewController.h"  //我的好友
+#import "MyAddFirendViewController.h"//添加好友页面
+#import "MyFriendGruopViewController.h" //好友分组页面
+#import "MyFriendAddGroupViewController.h"//添加好友分组页
+#import "MyFriednGroupEditViewController.h"//编辑好友分组页
+#import "MyPointsViewController.h"  //我的积分
+#import "MyFavoriteViewController.h"//我的收藏
+#import "MyGolfScoreViewController.h" //我的成绩
+#import "MyClubViewController.h"    //我的俱乐部
+#import "MyArticleViewController.h" //我的帖子
+#import "MyFansViewController.h"    //我的粉 丝
+#import "MyAttentionViewController.h"//我的关注
+#import "MyInviteViewController.h"  //我的邀请
+#import "MyInviteMeViewController.h"//新版我的邀请
+#import "MyMessageViewController.h" //我的消息
+#import "MyLevelViewController.h"   //我的荣誉（等级会员制度）
+#import "BirdWalletFillViewController.h"//充值页
+#import "MyUpLevelViewController.h" //升级页
+#import "BaseSearchTableViewController.h"   //基础搜索结果也
+#import "MyPointsMoreViewController.h"// 积分任务页面
+#import "MyPointsFreePlayController.h"//兑换服务
+#import "OrderCommentViewController.h"  //订单评价
+#import "UserInfoViewController.h"  //个人资料
+#import "MyAddFriendSendViewController.h"//添加好友发送页面
+#import "MyFriendCreateGroupViewController.h"//创建好友分组页面
+#import "MyFriendInviteListViewController.h"    //好友邀请列表页面
+#import "MyFriendDetailViewController.h"//好友邀请详情页面
+
+//------------预订场地-------------
+#import "AppointmentHomeViewController.h"//预约模块首页
+#import "PlaceAppointViewController.h"          //预定球场首页
+#import "PlaceSearchListViewController.h"   //搜索预约场地
+#import "PlaceDetailViewController.h"       //场地详情页
+#import "AppoinmentPlaceDetailViewController.h"//球场详情
+#import "AppointPlaceCommentViewController.h"   //球场评价页面
+#import "PlaceSubmitApointViewController.h" //提交场地预约订单页
+#import "PayOrderViewController.h"          //支付页
+#import "PlaceSearchResultViewController.h" //搜索球场结果页面
+#import "PlaceSumbitSuccessViewController.h"//预约成功界面
+
+//------------影视和排行榜----------
+#import "ChartsViewController.h"            //排行榜
+#import "TVShowViewController.h"            //影视页
+#import "TVTouPiaoViewController.h"         //小鸟投票
+#import "TVToupiaoDetailViewController.h"   //投票活动详情页面
+#import "TVToupiaoUserDetailViewController.h"//小鸟投票用户详情
+#import "ToupiaoResultDetailViewController.h"//小鸟投票用户结果列表
+#import "TvVideoListViewController.h"//视频列表
+#import "TvVideoDetailViewController.h"//视频详情页
+
+//------------一键约球-------------
+#import "FriendAppoinViewController.h"        //一键约球首页
+#import "FriendAppointViewController.h"         //邀请好友页面
+#import "FriendSelectPlaceViewController.h" //选择球场界面
+#import "FriendAppointmentSendSuccessViewController.h"//邀请成功界面
+//------------登录----------------
+#import "LoginViewController.h"             //登录页面
+#import "ReplacePassWordViewController.h"   //重置密码页面
+#import "UserEditInfoViewController.h"      //编辑个人资料界面(包含我的二维码)
+#import "LoginTieViewController.h"  //快速绑定页面
+#import "GuideViewController.h"//引导页
+
+/** 
+ 类别
+ */
+#import "NSString+Hashing.h"
+#import "UIScrollView+UITouch.h"
+#import "UIBarButtonItem+YB_Extension.h"
+#import "STL_CommonIdea.h"  //公共方法
+#import "YB_FocusButton.h"  //关注Button
+#import "UIColor+Addition.h"
+#import "UILabel+Category.h"
+#import "UITableViewCell+Additon.h"//箭头的cell
+#import "UIButton+Addtion.h"//带颜色边框的button
+#import "UITableViewCell+Additon.h"//箭头的cell
+#import "UIButton+Addtion.h"//带颜色边框的button
+#import "WYAlertView.h" //自定义的提示框
+#import "UIScrollView+EmptyDataSet.h"   //空白页
+#import "YB_SliderBtnView.h"//底部滚动条button
+#import "BMChineseSort.h"   //拼音排序
+#import "YB_Tools.h"
+#import "NSDate+YB_Extension.h"//日期格式化
+#import "NSDate+JKExtension.h"//时间类别
+#import "NSDate+JKFormatter.h"
+
+
+/*
+ 第三方头文件导入
+ */
+#import <Masonry.h>//masonry自动布局
+#import <AFNetworking.h>//网络请求AFN
+#import <SDAutoLayout.h>//第三方自动布局
+#import <SDCycleScrollView.h>//自动轮播视图
+#import <MJRefresh.h>//第三方刷新
+#import <MJExtension.h>//模型
+#import <BaiduMapAPI_Base/BMKBaseComponent.h>//引入base相关所有的头文件
+#import <BaiduMapAPI_Map/BMKMapComponent.h>//引入地图功能所有的头文件
+#import <BaiduMapAPI_Search/BMKSearchComponent.h>//引入检索功能所有的头文件
+#import <BaiduMapAPI_Cloud/BMKCloudSearchComponent.h>//引入云检索功能所有的头文件
+#import <BaiduMapAPI_Location/BMKLocationComponent.h>//引入定位功能所有的头文件
+#import <BaiduMapAPI_Utils/BMKUtilsComponent.h>//引入计算工具所有的头文件
+#import <BaiduMapAPI_Radar/BMKRadarComponent.h>//引入周边雷达功能所有的头文件
+#import <UIImageView+WebCache.h>//SD_WebImage
+#import <SDWebImage/UIButton+WebCache.h>
+#import <SVProgressHUD.h>
+#import "UMSocialUIManager.h"           //友盟分享
+#import <UMSocialCore/UMSocialCore.h>
+#import <AlipaySDK/AlipaySDK.h>
+#import "WXApi.h"
+#import "XLVideoPlayer.h"//播放器
+// 引入JPush功能所需头文件
+#import "JPUSHService.h"
+// iOS10注册APNs所需头文件
+#ifdef NSFoundationVersionNumber_iOS_9_x_Max
+#import <UserNotifications/UserNotifications.h>
+#endif
+
+
+
+#endif /* GolfPrefixHeader_pch */

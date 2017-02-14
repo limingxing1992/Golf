@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/Golf/!svn/ver/206/trunk/iOS/GolfIOS(NEW)/GolfIOS/Vendor/HXImagePicker
+END
+DragCellCollectionView.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Golf/!svn/ver/206/trunk/iOS/GolfIOS(NEW)/GolfIOS/Vendor/HXImagePicker/DragCellCollectionView.m
+END
+HX_PhotoPreviewViewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Golf/!svn/ver/206/trunk/iOS/GolfIOS(NEW)/GolfIOS/Vendor/HXImagePicker/HX_PhotoPreviewViewCell.m
+END
+HX_PhotosFooterView.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Golf/!svn/ver/206/trunk/iOS/GolfIOS(NEW)/GolfIOS/Vendor/HXImagePicker/HX_PhotosFooterView.m
+END
+HX_AddPhotoView.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Golf/!svn/ver/206/trunk/iOS/GolfIOS(NEW)/GolfIOS/Vendor/HXImagePicker/HX_AddPhotoView.h
+END
+HX_VideoManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Golf/!svn/ver/206/trunk/iOS/GolfIOS(NEW)/GolfIOS/Vendor/HXImagePicker/HX_VideoManager.h
+END
+HX_AddPhotoView.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Golf/!svn/ver/206/trunk/iOS/GolfIOS(NEW)/GolfIOS/Vendor/HXImagePicker/HX_AddPhotoView.m
+END
+HX_VideoContainerVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Golf/!svn/ver/206/trunk/iOS/GolfIOS(NEW)/GolfIOS/Vendor/HXImagePicker/HX_VideoContainerVC.h
+END
+HX_VideoManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Golf/!svn/ver/206/trunk/iOS/GolfIOS(NEW)/GolfIOS/Vendor/HXImagePicker/HX_VideoManager.m
+END
+HX_VideoContainerVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Golf/!svn/ver/206/trunk/iOS/GolfIOS(NEW)/GolfIOS/Vendor/HXImagePicker/HX_VideoContainerVC.m
+END
+ExternStringDefine.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Golf/!svn/ver/206/trunk/iOS/GolfIOS(NEW)/GolfIOS/Vendor/HXImagePicker/ExternStringDefine.h
+END
+HX_PhotoModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Golf/!svn/ver/206/trunk/iOS/GolfIOS(NEW)/GolfIOS/Vendor/HXImagePicker/HX_PhotoModel.h
+END
+ExternStringDefine.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Golf/!svn/ver/206/trunk/iOS/GolfIOS(NEW)/GolfIOS/Vendor/HXImagePicker/ExternStringDefine.m
+END
+HX_PhotoModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Golf/!svn/ver/206/trunk/iOS/GolfIOS(NEW)/GolfIOS/Vendor/HXImagePicker/HX_PhotoModel.m
+END
+MBProgressHUD.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Golf/!svn/ver/206/trunk/iOS/GolfIOS(NEW)/GolfIOS/Vendor/HXImagePicker/MBProgressHUD.h
+END
+MBProgressHUD.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Golf/!svn/ver/206/trunk/iOS/GolfIOS(NEW)/GolfIOS/Vendor/HXImagePicker/MBProgressHUD.m
+END
+HX_AddPhotoViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Golf/!svn/ver/206/trunk/iOS/GolfIOS(NEW)/GolfIOS/Vendor/HXImagePicker/HX_AddPhotoViewCell.h
+END
+HX_AlbumViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Golf/!svn/ver/206/trunk/iOS/GolfIOS(NEW)/GolfIOS/Vendor/HXImagePicker/HX_AlbumViewController.h
+END
+HX_AddPhotoViewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Golf/!svn/ver/206/trunk/iOS/GolfIOS(NEW)/GolfIOS/Vendor/HXImagePicker/HX_AddPhotoViewCell.m
+END
+HX_AlbumViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Golf/!svn/ver/206/trunk/iOS/GolfIOS(NEW)/GolfIOS/Vendor/HXImagePicker/HX_AlbumViewController.m
+END
+HX_AssetManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Golf/!svn/ver/206/trunk/iOS/GolfIOS(NEW)/GolfIOS/Vendor/HXImagePicker/HX_AssetManager.h
+END
+HX_AssetContainerVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Golf/!svn/ver/206/trunk/iOS/GolfIOS(NEW)/GolfIOS/Vendor/HXImagePicker/HX_AssetContainerVC.h
+END
+HX_PhotosViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Golf/!svn/ver/206/trunk/iOS/GolfIOS(NEW)/GolfIOS/Vendor/HXImagePicker/HX_PhotosViewController.h
+END
+HX_AssetContainerViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Golf/!svn/ver/206/trunk/iOS/GolfIOS(NEW)/GolfIOS/Vendor/HXImagePicker/HX_AssetContainerViewCell.h
+END
+HX_AssetManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Golf/!svn/ver/206/trunk/iOS/GolfIOS(NEW)/GolfIOS/Vendor/HXImagePicker/HX_AssetManager.m
+END
+HX_AssetContainerVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Golf/!svn/ver/206/trunk/iOS/GolfIOS(NEW)/GolfIOS/Vendor/HXImagePicker/HX_AssetContainerVC.m
+END
+HX_PhotosViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Golf/!svn/ver/206/trunk/iOS/GolfIOS(NEW)/GolfIOS/Vendor/HXImagePicker/HX_PhotosViewController.m
+END
+HX_AlbumModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Golf/!svn/ver/206/trunk/iOS/GolfIOS(NEW)/GolfIOS/Vendor/HXImagePicker/HX_AlbumModel.h
+END
+HX_AssetContainerViewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Golf/!svn/ver/206/trunk/iOS/GolfIOS(NEW)/GolfIOS/Vendor/HXImagePicker/HX_AssetContainerViewCell.m
+END
+DragCellCollectionView.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Golf/!svn/ver/206/trunk/iOS/GolfIOS(NEW)/GolfIOS/Vendor/HXImagePicker/DragCellCollectionView.h
+END
+HX_AlbumModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Golf/!svn/ver/206/trunk/iOS/GolfIOS(NEW)/GolfIOS/Vendor/HXImagePicker/HX_AlbumModel.m
+END
+HX_PhotoPreviewViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Golf/!svn/ver/206/trunk/iOS/GolfIOS(NEW)/GolfIOS/Vendor/HXImagePicker/HX_PhotoPreviewViewCell.h
+END
+HX_PhotosFooterView.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Golf/!svn/ver/206/trunk/iOS/GolfIOS(NEW)/GolfIOS/Vendor/HXImagePicker/HX_PhotosFooterView.h
+END

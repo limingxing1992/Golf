@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Golf/!svn/ver/1527/trunk/iOS/GolfIOS(NEW)/GolfIOS/Manager/BusinessLogicManager/ViewModel
+END
+TvManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Golf/!svn/ver/1372/trunk/iOS/GolfIOS(NEW)/GolfIOS/Manager/BusinessLogicManager/ViewModel/TvManager.m
+END
+BusinessManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Golf/!svn/ver/922/trunk/iOS/GolfIOS(NEW)/GolfIOS/Manager/BusinessLogicManager/ViewModel/BusinessManager.m
+END
+AppointmentPlaceManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/Golf/!svn/ver/923/trunk/iOS/GolfIOS(NEW)/GolfIOS/Manager/BusinessLogicManager/ViewModel/AppointmentPlaceManager.h
+END
+LoginManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Golf/!svn/ver/1481/trunk/iOS/GolfIOS(NEW)/GolfIOS/Manager/BusinessLogicManager/ViewModel/LoginManager.h
+END
+AppointmentPlaceManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/Golf/!svn/ver/923/trunk/iOS/GolfIOS(NEW)/GolfIOS/Manager/BusinessLogicManager/ViewModel/AppointmentPlaceManager.m
+END
+BaseManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Golf/!svn/ver/206/trunk/iOS/GolfIOS(NEW)/GolfIOS/Manager/BusinessLogicManager/ViewModel/BaseManager.h
+END
+ScoreManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Golf/!svn/ver/1230/trunk/iOS/GolfIOS(NEW)/GolfIOS/Manager/BusinessLogicManager/ViewModel/ScoreManager.h
+END
+LoginManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Golf/!svn/ver/1482/trunk/iOS/GolfIOS(NEW)/GolfIOS/Manager/BusinessLogicManager/ViewModel/LoginManager.m
+END
+UserManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Golf/!svn/ver/1394/trunk/iOS/GolfIOS(NEW)/GolfIOS/Manager/BusinessLogicManager/ViewModel/UserManager.h
+END
+BaseManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Golf/!svn/ver/206/trunk/iOS/GolfIOS(NEW)/GolfIOS/Manager/BusinessLogicManager/ViewModel/BaseManager.m
+END
+ScoreManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Golf/!svn/ver/1230/trunk/iOS/GolfIOS(NEW)/GolfIOS/Manager/BusinessLogicManager/ViewModel/ScoreManager.m
+END
+UserManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Golf/!svn/ver/1422/trunk/iOS/GolfIOS(NEW)/GolfIOS/Manager/BusinessLogicManager/ViewModel/UserManager.m
+END
+ChartsManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Golf/!svn/ver/923/trunk/iOS/GolfIOS(NEW)/GolfIOS/Manager/BusinessLogicManager/ViewModel/ChartsManager.h
+END
+CommunityManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Golf/!svn/ver/945/trunk/iOS/GolfIOS(NEW)/GolfIOS/Manager/BusinessLogicManager/ViewModel/CommunityManager.h
+END
+ClubManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Golf/!svn/ver/1527/trunk/iOS/GolfIOS(NEW)/GolfIOS/Manager/BusinessLogicManager/ViewModel/ClubManager.h
+END
+AppointmentFriendManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/Golf/!svn/ver/652/trunk/iOS/GolfIOS(NEW)/GolfIOS/Manager/BusinessLogicManager/ViewModel/AppointmentFriendManager.h
+END
+HomeManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Golf/!svn/ver/922/trunk/iOS/GolfIOS(NEW)/GolfIOS/Manager/BusinessLogicManager/ViewModel/HomeManager.h
+END
+CommunityManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/Golf/!svn/ver/1230/trunk/iOS/GolfIOS(NEW)/GolfIOS/Manager/BusinessLogicManager/ViewModel/CommunityManager.m
+END
+ChartsManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Golf/!svn/ver/923/trunk/iOS/GolfIOS(NEW)/GolfIOS/Manager/BusinessLogicManager/ViewModel/ChartsManager.m
+END
+TvManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Golf/!svn/ver/1372/trunk/iOS/GolfIOS(NEW)/GolfIOS/Manager/BusinessLogicManager/ViewModel/TvManager.h
+END
+ClubManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Golf/!svn/ver/1527/trunk/iOS/GolfIOS(NEW)/GolfIOS/Manager/BusinessLogicManager/ViewModel/ClubManager.m
+END
+BusinessManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Golf/!svn/ver/922/trunk/iOS/GolfIOS(NEW)/GolfIOS/Manager/BusinessLogicManager/ViewModel/BusinessManager.h
+END
+AppointmentFriendManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/Golf/!svn/ver/845/trunk/iOS/GolfIOS(NEW)/GolfIOS/Manager/BusinessLogicManager/ViewModel/AppointmentFriendManager.m
+END
+HomeManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Golf/!svn/ver/1527/trunk/iOS/GolfIOS(NEW)/GolfIOS/Manager/BusinessLogicManager/ViewModel/HomeManager.m
+END

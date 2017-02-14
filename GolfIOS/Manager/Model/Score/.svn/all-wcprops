@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/Golf/!svn/ver/1394/trunk/iOS/GolfIOS(NEW)/GolfIOS/Manager/Model/Score
+END
+ScoreUser.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Golf/!svn/ver/1146/trunk/iOS/GolfIOS(NEW)/GolfIOS/Manager/Model/Score/ScoreUser.h
+END
+StandardHoleListModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Golf/!svn/ver/1119/trunk/iOS/GolfIOS(NEW)/GolfIOS/Manager/Model/Score/StandardHoleListModel.m
+END
+ScoreRecordModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Golf/!svn/ver/1394/trunk/iOS/GolfIOS(NEW)/GolfIOS/Manager/Model/Score/ScoreRecordModel.h
+END
+ScoreUserModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Golf/!svn/ver/1146/trunk/iOS/GolfIOS(NEW)/GolfIOS/Manager/Model/Score/ScoreUserModel.h
+END
+ScoreInfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Golf/!svn/ver/1174/trunk/iOS/GolfIOS(NEW)/GolfIOS/Manager/Model/Score/ScoreInfo.m
+END
+ScoreList.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Golf/!svn/ver/1174/trunk/iOS/GolfIOS(NEW)/GolfIOS/Manager/Model/Score/ScoreList.m
+END
+ScoreUser.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Golf/!svn/ver/1146/trunk/iOS/GolfIOS(NEW)/GolfIOS/Manager/Model/Score/ScoreUser.m
+END
+ScoreRecordModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Golf/!svn/ver/1174/trunk/iOS/GolfIOS(NEW)/GolfIOS/Manager/Model/Score/ScoreRecordModel.m
+END
+ScoreUserModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Golf/!svn/ver/1146/trunk/iOS/GolfIOS(NEW)/GolfIOS/Manager/Model/Score/ScoreUserModel.m
+END
+StandardHoleListModel.temp_caseinsensitive_rename.m
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/Golf/!svn/ver/1119/trunk/iOS/GolfIOS(NEW)/GolfIOS/Manager/Model/Score/StandardHoleListModel.temp_caseinsensitive_rename.m
+END
+StandardHoleListModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Golf/!svn/ver/1119/trunk/iOS/GolfIOS(NEW)/GolfIOS/Manager/Model/Score/StandardHoleListModel.h
+END
+ScoreInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Golf/!svn/ver/1174/trunk/iOS/GolfIOS(NEW)/GolfIOS/Manager/Model/Score/ScoreInfo.h
+END
+ScoreList.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Golf/!svn/ver/1174/trunk/iOS/GolfIOS(NEW)/GolfIOS/Manager/Model/Score/ScoreList.h
+END

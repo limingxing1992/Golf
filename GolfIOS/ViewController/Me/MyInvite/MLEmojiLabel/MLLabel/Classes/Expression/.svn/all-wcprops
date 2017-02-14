@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/Golf/!svn/ver/349/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/Me/MyInvite/MLEmojiLabel/MLLabel/Classes/Expression
+END
+MLTextAttachment.m
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/Golf/!svn/ver/349/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/Me/MyInvite/MLEmojiLabel/MLLabel/Classes/Expression/MLTextAttachment.m
+END
+NSString+MLExpression.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/Golf/!svn/ver/349/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/Me/MyInvite/MLEmojiLabel/MLLabel/Classes/Expression/NSString+MLExpression.h
+END
+NSString+MLExpression.m
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/Golf/!svn/ver/349/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/Me/MyInvite/MLEmojiLabel/MLLabel/Classes/Expression/NSString+MLExpression.m
+END
+MLExpressionManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/Golf/!svn/ver/349/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/Me/MyInvite/MLEmojiLabel/MLLabel/Classes/Expression/MLExpressionManager.h
+END
+NSAttributedString+MLExpression.h
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/Golf/!svn/ver/349/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/Me/MyInvite/MLEmojiLabel/MLLabel/Classes/Expression/NSAttributedString+MLExpression.h
+END
+MLTextAttachment.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/Golf/!svn/ver/349/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/Me/MyInvite/MLEmojiLabel/MLLabel/Classes/Expression/MLTextAttachment.h
+END
+MLExpressionManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/Golf/!svn/ver/349/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/Me/MyInvite/MLEmojiLabel/MLLabel/Classes/Expression/MLExpressionManager.m
+END
+NSAttributedString+MLExpression.m
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/Golf/!svn/ver/349/trunk/iOS/GolfIOS(NEW)/GolfIOS/ViewController/Me/MyInvite/MLEmojiLabel/MLLabel/Classes/Expression/NSAttributedString+MLExpression.m
+END
